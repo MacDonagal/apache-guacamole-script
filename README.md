@@ -1,4 +1,4 @@
-<a href="URL_REDIRECT" target="blank"><img align="center" src=Apache_Guacamole_logo.png height="100" /></a>
+<p align="center"><a href="URL_REDIRECT" target="blank"><img align="center" src=Apache_Guacamole_logo.png height="100" /></a></p>
 # Apache Guacamole Installation Script
 
 J'ai repris le script d'installation de MysticRyuujin pour l'adapter aux dernières version d'Apache Guacamole
