@@ -4,6 +4,7 @@
 # Apache Guacamole Installation Script
 
 J'ai repris le script d'installation de MysticRyuujin pour l'adapter aux dernières version d'Apache Guacamole
+
 Attention, le(s) script(s) ne fonctionnent pas sous Debian 12..
 
 
